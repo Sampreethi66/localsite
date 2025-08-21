@@ -1,0 +1,4 @@
+county_fips,county_name,population
+48113,Dallas County,2610000
+48085,Collin County,1150000
+06037,Los Angeles County,10000000
